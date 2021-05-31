@@ -1,0 +1,176 @@
+C:\Users\Oconell\source\repos\HolaMundo\HelloWorld\bin\HelloWorld.dll.config
+C:\Users\Oconell\source\repos\HolaMundo\HelloWorld\bin\HelloWorld.dll
+C:\Users\Oconell\source\repos\HolaMundo\HelloWorld\bin\HelloWorld.pdb
+C:\Users\Oconell\source\repos\HolaMundo\HelloWorld\bin\roslyn\csc.exe
+C:\Users\Oconell\source\repos\HolaMundo\HelloWorld\bin\roslyn\csc.exe.config
+C:\Users\Oconell\source\repos\HolaMundo\HelloWorld\bin\roslyn\csc.rsp
+C:\Users\Oconell\source\repos\HolaMundo\HelloWorld\bin\roslyn\csi.exe
+C:\Users\Oconell\source\repos\HolaMundo\HelloWorld\bin\roslyn\csi.exe.config
+C:\Users\Oconell\source\repos\HolaMundo\HelloWorld\bin\roslyn\csi.rsp
+C:\Users\Oconell\source\repos\HolaMundo\HelloWorld\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Oconell\source\repos\HolaMundo\HelloWorld\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Oconell\source\repos\HolaMundo\HelloWorld\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Oconell\source\repos\HolaMundo\HelloWorld\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Oconell\source\repos\HolaMundo\HelloWorld\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Oconell\source\repos\HolaMundo\HelloWorld\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Oconell\source\repos\HolaMundo\HelloWorld\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Oconell\source\repos\HolaMundo\HelloWorld\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Oconell\source\repos\HolaMundo\HelloWorld\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Oconell\source\repos\HolaMundo\HelloWorld\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Oconell\source\repos\HolaMundo\HelloWorld\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Oconell\source\repos\HolaMundo\HelloWorld\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Oconell\source\repos\HolaMundo\HelloWorld\bin\roslyn\System.AppContext.dll
+C:\Users\Oconell\source\repos\HolaMundo\HelloWorld\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Oconell\source\repos\HolaMundo\HelloWorld\bin\roslyn\System.Console.dll
+C:\Users\Oconell\source\repos\HolaMundo\HelloWorld\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Oconell\source\repos\HolaMundo\HelloWorld\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Oconell\source\repos\HolaMundo\HelloWorld\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Oconell\source\repos\HolaMundo\HelloWorld\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Oconell\source\repos\HolaMundo\HelloWorld\bin\roslyn\System.IO.Compression.dll
+C:\Users\Oconell\source\repos\HolaMundo\HelloWorld\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Oconell\source\repos\HolaMundo\HelloWorld\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Oconell\source\repos\HolaMundo\HelloWorld\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Oconell\source\repos\HolaMundo\HelloWorld\bin\roslyn\System.Net.Http.dll
+C:\Users\Oconell\source\repos\HolaMundo\HelloWorld\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Oconell\source\repos\HolaMundo\HelloWorld\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Oconell\source\repos\HolaMundo\HelloWorld\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Oconell\source\repos\HolaMundo\HelloWorld\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Oconell\source\repos\HolaMundo\HelloWorld\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Oconell\source\repos\HolaMundo\HelloWorld\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Oconell\source\repos\HolaMundo\HelloWorld\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Oconell\source\repos\HolaMundo\HelloWorld\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Oconell\source\repos\HolaMundo\HelloWorld\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Oconell\source\repos\HolaMundo\HelloWorld\bin\roslyn\System.ValueTuple.dll
+C:\Users\Oconell\source\repos\HolaMundo\HelloWorld\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Oconell\source\repos\HolaMundo\HelloWorld\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Oconell\source\repos\HolaMundo\HelloWorld\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Oconell\source\repos\HolaMundo\HelloWorld\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Oconell\source\repos\HolaMundo\HelloWorld\bin\roslyn\vbc.exe
+C:\Users\Oconell\source\repos\HolaMundo\HelloWorld\bin\roslyn\vbc.exe.config
+C:\Users\Oconell\source\repos\HolaMundo\HelloWorld\bin\roslyn\vbc.rsp
+C:\Users\Oconell\source\repos\HolaMundo\HelloWorld\bin\roslyn\VBCSCompiler.exe
+C:\Users\Oconell\source\repos\HolaMundo\HelloWorld\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Oconell\source\repos\HolaMundo\HelloWorld\bin\Antlr3.Runtime.dll
+C:\Users\Oconell\source\repos\HolaMundo\HelloWorld\bin\Dominio.dll
+C:\Users\Oconell\source\repos\HolaMundo\HelloWorld\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Oconell\source\repos\HolaMundo\HelloWorld\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Oconell\source\repos\HolaMundo\HelloWorld\bin\Newtonsoft.Json.dll
+C:\Users\Oconell\source\repos\HolaMundo\HelloWorld\bin\System.Web.Helpers.dll
+C:\Users\Oconell\source\repos\HolaMundo\HelloWorld\bin\System.Web.Mvc.dll
+C:\Users\Oconell\source\repos\HolaMundo\HelloWorld\bin\System.Web.Optimization.dll
+C:\Users\Oconell\source\repos\HolaMundo\HelloWorld\bin\System.Web.Razor.dll
+C:\Users\Oconell\source\repos\HolaMundo\HelloWorld\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Oconell\source\repos\HolaMundo\HelloWorld\bin\System.Web.WebPages.dll
+C:\Users\Oconell\source\repos\HolaMundo\HelloWorld\bin\System.Web.WebPages.Razor.dll
+C:\Users\Oconell\source\repos\HolaMundo\HelloWorld\bin\WebGrease.dll
+C:\Users\Oconell\source\repos\HolaMundo\HelloWorld\bin\Dominio.pdb
+C:\Users\Oconell\source\repos\HolaMundo\HelloWorld\bin\System.Web.Helpers.xml
+C:\Users\Oconell\source\repos\HolaMundo\HelloWorld\bin\System.Web.Mvc.xml
+C:\Users\Oconell\source\repos\HolaMundo\HelloWorld\bin\System.Web.Optimization.xml
+C:\Users\Oconell\source\repos\HolaMundo\HelloWorld\bin\System.Web.Razor.xml
+C:\Users\Oconell\source\repos\HolaMundo\HelloWorld\bin\System.Web.WebPages.xml
+C:\Users\Oconell\source\repos\HolaMundo\HelloWorld\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Oconell\source\repos\HolaMundo\HelloWorld\bin\System.Web.WebPages.Razor.xml
+C:\Users\Oconell\source\repos\HolaMundo\HelloWorld\bin\Newtonsoft.Json.xml
+C:\Users\Oconell\source\repos\HolaMundo\HelloWorld\bin\Antlr3.Runtime.pdb
+C:\Users\Oconell\source\repos\HolaMundo\HelloWorld\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Oconell\source\repos\HolaMundo\HelloWorld\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Oconell\source\repos\HolaMundo\HelloWorld\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Oconell\source\repos\HolaMundo\HelloWorld\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Oconell\source\repos\HolaMundo\HelloWorld\bin\es\System.Web.Razor.resources.dll
+C:\Users\Oconell\source\repos\HolaMundo\HelloWorld\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Oconell\source\repos\HolaMundo\HelloWorld\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Oconell\source\repos\HolaMundo\HelloWorld\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Oconell\source\repos\HolaMundo\HelloWorld\obj\Debug\HelloWorld.csprojAssemblyReference.cache
+C:\Users\Oconell\source\repos\HolaMundo\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\Oconell\source\repos\HolaMundo\HelloWorld\obj\Debug\HelloWorld.csproj.CopyComplete
+C:\Users\Oconell\source\repos\HolaMundo\HelloWorld\obj\Debug\HelloWorld.dll
+C:\Users\Oconell\source\repos\HolaMundo\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Users\Oconell\source\repos\proyecto2021\Proyectos muestra\HolaMundo\HelloWorld\bin\HelloWorld.dll.config
+C:\Users\Oconell\source\repos\proyecto2021\Proyectos muestra\HolaMundo\HelloWorld\bin\HelloWorld.dll
+C:\Users\Oconell\source\repos\proyecto2021\Proyectos muestra\HolaMundo\HelloWorld\bin\HelloWorld.pdb
+C:\Users\Oconell\source\repos\proyecto2021\Proyectos muestra\HolaMundo\HelloWorld\bin\roslyn\csc.exe
+C:\Users\Oconell\source\repos\proyecto2021\Proyectos muestra\HolaMundo\HelloWorld\bin\roslyn\csc.exe.config
+C:\Users\Oconell\source\repos\proyecto2021\Proyectos muestra\HolaMundo\HelloWorld\bin\roslyn\csc.rsp
+C:\Users\Oconell\source\repos\proyecto2021\Proyectos muestra\HolaMundo\HelloWorld\bin\roslyn\csi.exe
+C:\Users\Oconell\source\repos\proyecto2021\Proyectos muestra\HolaMundo\HelloWorld\bin\roslyn\csi.exe.config
+C:\Users\Oconell\source\repos\proyecto2021\Proyectos muestra\HolaMundo\HelloWorld\bin\roslyn\csi.rsp
+C:\Users\Oconell\source\repos\proyecto2021\Proyectos muestra\HolaMundo\HelloWorld\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Oconell\source\repos\proyecto2021\Proyectos muestra\HolaMundo\HelloWorld\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Oconell\source\repos\proyecto2021\Proyectos muestra\HolaMundo\HelloWorld\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Oconell\source\repos\proyecto2021\Proyectos muestra\HolaMundo\HelloWorld\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Oconell\source\repos\proyecto2021\Proyectos muestra\HolaMundo\HelloWorld\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Oconell\source\repos\proyecto2021\Proyectos muestra\HolaMundo\HelloWorld\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Oconell\source\repos\proyecto2021\Proyectos muestra\HolaMundo\HelloWorld\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Oconell\source\repos\proyecto2021\Proyectos muestra\HolaMundo\HelloWorld\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Oconell\source\repos\proyecto2021\Proyectos muestra\HolaMundo\HelloWorld\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Oconell\source\repos\proyecto2021\Proyectos muestra\HolaMundo\HelloWorld\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Oconell\source\repos\proyecto2021\Proyectos muestra\HolaMundo\HelloWorld\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Oconell\source\repos\proyecto2021\Proyectos muestra\HolaMundo\HelloWorld\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Oconell\source\repos\proyecto2021\Proyectos muestra\HolaMundo\HelloWorld\bin\roslyn\System.AppContext.dll
+C:\Users\Oconell\source\repos\proyecto2021\Proyectos muestra\HolaMundo\HelloWorld\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Oconell\source\repos\proyecto2021\Proyectos muestra\HolaMundo\HelloWorld\bin\roslyn\System.Console.dll
+C:\Users\Oconell\source\repos\proyecto2021\Proyectos muestra\HolaMundo\HelloWorld\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Oconell\source\repos\proyecto2021\Proyectos muestra\HolaMundo\HelloWorld\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Oconell\source\repos\proyecto2021\Proyectos muestra\HolaMundo\HelloWorld\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Oconell\source\repos\proyecto2021\Proyectos muestra\HolaMundo\HelloWorld\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Oconell\source\repos\proyecto2021\Proyectos muestra\HolaMundo\HelloWorld\bin\roslyn\System.IO.Compression.dll
+C:\Users\Oconell\source\repos\proyecto2021\Proyectos muestra\HolaMundo\HelloWorld\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Oconell\source\repos\proyecto2021\Proyectos muestra\HolaMundo\HelloWorld\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Oconell\source\repos\proyecto2021\Proyectos muestra\HolaMundo\HelloWorld\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Oconell\source\repos\proyecto2021\Proyectos muestra\HolaMundo\HelloWorld\bin\roslyn\System.Net.Http.dll
+C:\Users\Oconell\source\repos\proyecto2021\Proyectos muestra\HolaMundo\HelloWorld\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Oconell\source\repos\proyecto2021\Proyectos muestra\HolaMundo\HelloWorld\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Oconell\source\repos\proyecto2021\Proyectos muestra\HolaMundo\HelloWorld\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Oconell\source\repos\proyecto2021\Proyectos muestra\HolaMundo\HelloWorld\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Oconell\source\repos\proyecto2021\Proyectos muestra\HolaMundo\HelloWorld\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Oconell\source\repos\proyecto2021\Proyectos muestra\HolaMundo\HelloWorld\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Oconell\source\repos\proyecto2021\Proyectos muestra\HolaMundo\HelloWorld\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Oconell\source\repos\proyecto2021\Proyectos muestra\HolaMundo\HelloWorld\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Oconell\source\repos\proyecto2021\Proyectos muestra\HolaMundo\HelloWorld\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Oconell\source\repos\proyecto2021\Proyectos muestra\HolaMundo\HelloWorld\bin\roslyn\System.ValueTuple.dll
+C:\Users\Oconell\source\repos\proyecto2021\Proyectos muestra\HolaMundo\HelloWorld\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Oconell\source\repos\proyecto2021\Proyectos muestra\HolaMundo\HelloWorld\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Oconell\source\repos\proyecto2021\Proyectos muestra\HolaMundo\HelloWorld\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Oconell\source\repos\proyecto2021\Proyectos muestra\HolaMundo\HelloWorld\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Oconell\source\repos\proyecto2021\Proyectos muestra\HolaMundo\HelloWorld\bin\roslyn\vbc.exe
+C:\Users\Oconell\source\repos\proyecto2021\Proyectos muestra\HolaMundo\HelloWorld\bin\roslyn\vbc.exe.config
+C:\Users\Oconell\source\repos\proyecto2021\Proyectos muestra\HolaMundo\HelloWorld\bin\roslyn\vbc.rsp
+C:\Users\Oconell\source\repos\proyecto2021\Proyectos muestra\HolaMundo\HelloWorld\bin\roslyn\VBCSCompiler.exe
+C:\Users\Oconell\source\repos\proyecto2021\Proyectos muestra\HolaMundo\HelloWorld\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Oconell\source\repos\proyecto2021\Proyectos muestra\HolaMundo\HelloWorld\bin\Antlr3.Runtime.dll
+C:\Users\Oconell\source\repos\proyecto2021\Proyectos muestra\HolaMundo\HelloWorld\bin\Dominio.dll
+C:\Users\Oconell\source\repos\proyecto2021\Proyectos muestra\HolaMundo\HelloWorld\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Oconell\source\repos\proyecto2021\Proyectos muestra\HolaMundo\HelloWorld\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Oconell\source\repos\proyecto2021\Proyectos muestra\HolaMundo\HelloWorld\bin\Newtonsoft.Json.dll
+C:\Users\Oconell\source\repos\proyecto2021\Proyectos muestra\HolaMundo\HelloWorld\bin\System.Web.Helpers.dll
+C:\Users\Oconell\source\repos\proyecto2021\Proyectos muestra\HolaMundo\HelloWorld\bin\System.Web.Mvc.dll
+C:\Users\Oconell\source\repos\proyecto2021\Proyectos muestra\HolaMundo\HelloWorld\bin\System.Web.Optimization.dll
+C:\Users\Oconell\source\repos\proyecto2021\Proyectos muestra\HolaMundo\HelloWorld\bin\System.Web.Razor.dll
+C:\Users\Oconell\source\repos\proyecto2021\Proyectos muestra\HolaMundo\HelloWorld\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Oconell\source\repos\proyecto2021\Proyectos muestra\HolaMundo\HelloWorld\bin\System.Web.WebPages.dll
+C:\Users\Oconell\source\repos\proyecto2021\Proyectos muestra\HolaMundo\HelloWorld\bin\System.Web.WebPages.Razor.dll
+C:\Users\Oconell\source\repos\proyecto2021\Proyectos muestra\HolaMundo\HelloWorld\bin\WebGrease.dll
+C:\Users\Oconell\source\repos\proyecto2021\Proyectos muestra\HolaMundo\HelloWorld\bin\Dominio.pdb
+C:\Users\Oconell\source\repos\proyecto2021\Proyectos muestra\HolaMundo\HelloWorld\bin\System.Web.Helpers.xml
+C:\Users\Oconell\source\repos\proyecto2021\Proyectos muestra\HolaMundo\HelloWorld\bin\System.Web.Mvc.xml
+C:\Users\Oconell\source\repos\proyecto2021\Proyectos muestra\HolaMundo\HelloWorld\bin\System.Web.Optimization.xml
+C:\Users\Oconell\source\repos\proyecto2021\Proyectos muestra\HolaMundo\HelloWorld\bin\System.Web.Razor.xml
+C:\Users\Oconell\source\repos\proyecto2021\Proyectos muestra\HolaMundo\HelloWorld\bin\System.Web.WebPages.xml
+C:\Users\Oconell\source\repos\proyecto2021\Proyectos muestra\HolaMundo\HelloWorld\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Oconell\source\repos\proyecto2021\Proyectos muestra\HolaMundo\HelloWorld\bin\System.Web.WebPages.Razor.xml
+C:\Users\Oconell\source\repos\proyecto2021\Proyectos muestra\HolaMundo\HelloWorld\bin\Newtonsoft.Json.xml
+C:\Users\Oconell\source\repos\proyecto2021\Proyectos muestra\HolaMundo\HelloWorld\bin\Antlr3.Runtime.pdb
+C:\Users\Oconell\source\repos\proyecto2021\Proyectos muestra\HolaMundo\HelloWorld\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Oconell\source\repos\proyecto2021\Proyectos muestra\HolaMundo\HelloWorld\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Oconell\source\repos\proyecto2021\Proyectos muestra\HolaMundo\HelloWorld\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Oconell\source\repos\proyecto2021\Proyectos muestra\HolaMundo\HelloWorld\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Oconell\source\repos\proyecto2021\Proyectos muestra\HolaMundo\HelloWorld\bin\es\System.Web.Razor.resources.dll
+C:\Users\Oconell\source\repos\proyecto2021\Proyectos muestra\HolaMundo\HelloWorld\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Oconell\source\repos\proyecto2021\Proyectos muestra\HolaMundo\HelloWorld\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Oconell\source\repos\proyecto2021\Proyectos muestra\HolaMundo\HelloWorld\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Oconell\source\repos\proyecto2021\Proyectos muestra\HolaMundo\HelloWorld\obj\Debug\HelloWorld.csprojAssemblyReference.cache
+C:\Users\Oconell\source\repos\proyecto2021\Proyectos muestra\HolaMundo\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\Oconell\source\repos\proyecto2021\Proyectos muestra\HolaMundo\HelloWorld\obj\Debug\HelloWorld.csproj.CopyComplete
+C:\Users\Oconell\source\repos\proyecto2021\Proyectos muestra\HolaMundo\HelloWorld\obj\Debug\HelloWorld.dll
+C:\Users\Oconell\source\repos\proyecto2021\Proyectos muestra\HolaMundo\HelloWorld\obj\Debug\HelloWorld.pdb

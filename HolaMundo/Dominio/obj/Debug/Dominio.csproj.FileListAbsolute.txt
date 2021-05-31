@@ -1,0 +1,12 @@
+C:\Users\Oconell\source\repos\HolaMundo\Dominio\bin\Debug\Dominio.dll
+C:\Users\Oconell\source\repos\HolaMundo\Dominio\bin\Debug\Dominio.pdb
+C:\Users\Oconell\source\repos\HolaMundo\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Oconell\source\repos\HolaMundo\Dominio\obj\Debug\Dominio.dll
+C:\Users\Oconell\source\repos\HolaMundo\Dominio\obj\Debug\Dominio.pdb
+C:\Users\Oconell\source\repos\HolaMundo\Dominio\obj\Debug\Dominio.csprojAssemblyReference.cache
+C:\Users\Oconell\source\repos\proyecto2021\Proyectos muestra\HolaMundo\Dominio\bin\Debug\Dominio.dll
+C:\Users\Oconell\source\repos\proyecto2021\Proyectos muestra\HolaMundo\Dominio\bin\Debug\Dominio.pdb
+C:\Users\Oconell\source\repos\proyecto2021\Proyectos muestra\HolaMundo\Dominio\obj\Debug\Dominio.csprojAssemblyReference.cache
+C:\Users\Oconell\source\repos\proyecto2021\Proyectos muestra\HolaMundo\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Oconell\source\repos\proyecto2021\Proyectos muestra\HolaMundo\Dominio\obj\Debug\Dominio.dll
+C:\Users\Oconell\source\repos\proyecto2021\Proyectos muestra\HolaMundo\Dominio\obj\Debug\Dominio.pdb

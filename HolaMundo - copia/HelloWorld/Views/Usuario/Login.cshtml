@@ -1,0 +1,40 @@
+﻿@model Dominio.Usuario
+
+@{
+    ViewBag.Title = "Login";
+}
+
+<h2>Login</h2>
+
+<form action="/Usuario/Login" method="post">
+    <div class="form-horizontal">
+        <h4>Login</h4>
+        <hr />
+        <div class="form-group">
+            <div class="col-md-10">
+                <label for="Cedula" class="control-label col-md-2">Cedula</label>
+                <div class="col-md-10">
+                    <input type="text" name="Cedula" id="Cedula" class="form-control" />
+
+                </div>
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-10">
+                <label for="Password" class="control-label col-md-2">Password</label>
+                <div class="col-md-10">
+                    <input type="password" name="Password" id="Password" class="form-control" />
+
+                </div>
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Login" class="btn btn-default" />
+            </div>
+        </div>
+        <label>No tiene cuenta? <a href="Create">Registrarse.</a></label>
+    </div>
+</form>
